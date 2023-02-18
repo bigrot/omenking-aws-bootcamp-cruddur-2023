@@ -8,4 +8,4 @@
  
  I recreated the logical drawing for the cruddur app
  https://lucid.app/lucidchart/bfd999bf-df64-4cbb-a233-8f167b56a6ea/edit?viewport_loc=-166%2C79%2C2296%2C1192%2C0_0&invitationId=inv_ac7c800d-03f0-4c66-a2e0-c402bcd74064
- 
+ [![Screen-Shot-2023-02-18-at-8-12-04-AM.png](https://i.postimg.cc/0QrWVsyY/Screen-Shot-2023-02-18-at-8-12-04-AM.png)](https://postimg.cc/cgyBJPYC)
