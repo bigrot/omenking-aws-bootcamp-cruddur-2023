@@ -1,8 +1,11 @@
 # Week 0 — Billing and Architecture
 
  i was able to create a budget , Creating just one budget was highly recommend given the cost consdiration and free tier limitation 
+ [![Screen-Shot-2023-02-18-at-9-25-27-AM.png](https://i.postimg.cc/5tXLGN82/Screen-Shot-2023-02-18-at-9-25-27-AM.png)](https://postimg.cc/8FV7fGy2)
  
  i destroyed the root account and created IAM user with MFA acess for an extra layer of security 
+ 
+ 
  
  github repository was integrated with gitpod and aws account configuration was done 
  
